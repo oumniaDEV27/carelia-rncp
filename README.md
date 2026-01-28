@@ -60,7 +60,6 @@ Variables principales à renseigner :
 * `DB_PASSWORD`
 * `DB_NAME`
 
-⚠️ Le fichier `.env` ne doit jamais être versionné.
 
 ---
 
